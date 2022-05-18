@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/risk-calculator/static/css/main.95b2d625.css",
+    "main.js": "/risk-calculator/static/js/main.af43e8d9.js",
+    "static/js/787.d7f14c5d.chunk.js": "/risk-calculator/static/js/787.d7f14c5d.chunk.js",
+    "index.html": "/risk-calculator/index.html",
+    "main.95b2d625.css.map": "/risk-calculator/static/css/main.95b2d625.css.map",
+    "main.af43e8d9.js.map": "/risk-calculator/static/js/main.af43e8d9.js.map",
+    "787.d7f14c5d.chunk.js.map": "/risk-calculator/static/js/787.d7f14c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95b2d625.css",
+    "static/js/main.af43e8d9.js"
+  ]
+}
